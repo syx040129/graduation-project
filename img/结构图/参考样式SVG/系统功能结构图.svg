@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1934" height="655" viewBox="0 0 1934 655" role="img" aria-labelledby="title"><title id="title">智聘通招聘网站的设计与实现</title><rect width="100%" height="100%" fill="white"/><g font-family="SimSun, Songti SC, serif" fill="black">
+<path d="M 967 150 L 967 195" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 425 195 L 1581 195" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 425 195 L 425 235" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1039 195 L 1039 235" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1581 195 L 1581 235" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 425 310 L 425 350" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 65 350 L 785 350" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 65 350 L 65 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 137 350 L 137 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 209 350 L 209 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 281 350 L 281 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 353 350 L 353 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 425 350 L 425 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 497 350 L 497 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 569 350 L 569 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 641 350 L 641 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 713 350 L 713 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 785 350 L 785 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1039 310 L 1039 350" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 895 350 L 1183 350" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 895 350 L 895 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 967 350 L 967 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1039 350 L 1039 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1111 350 L 1111 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1183 350 L 1183 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1581 310 L 1581 350" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1293 350 L 1869 350" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1293 350 L 1293 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1365 350 L 1365 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1437 350 L 1437 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1509 350 L 1509 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1581 350 L 1581 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1653 350 L 1653 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1725 350 L 1725 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1797 350 L 1797 390" fill="none" stroke="black" stroke-width="2"/>
+<path d="M 1869 350 L 1869 390" fill="none" stroke="black" stroke-width="2"/>
+<g><title>智聘通招聘网站的设计与实现</title><rect x="707" y="85" width="520" height="65" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="967" y="117.5" text-anchor="middle" dominant-baseline="central" font-size="26">智聘通招聘网站的设计与实现</text>
+</g>
+<g><title>用户</title><rect x="310" y="235" width="230" height="75" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="425" y="272.5" text-anchor="middle" dominant-baseline="central" font-size="23">用户</text>
+</g>
+<g><title>注册登录</title><rect x="47" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="65" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">注</text>
+<text x="65" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">册</text>
+<text x="65" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">登</text>
+<text x="65" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">录</text>
+</g>
+<g><title>首页</title><rect x="119" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="137" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">首</text>
+<text x="137" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">页</text>
+</g>
+<g><title>个人中心</title><rect x="191" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="209" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">个</text>
+<text x="209" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">人</text>
+<text x="209" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">中</text>
+<text x="209" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">心</text>
+</g>
+<g><title>职位中心</title><rect x="263" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="281" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">职</text>
+<text x="281" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">位</text>
+<text x="281" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">中</text>
+<text x="281" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">心</text>
+</g>
+<g><title>我的简历</title><rect x="335" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="353" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">我</text>
+<text x="353" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">的</text>
+<text x="353" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">简</text>
+<text x="353" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">历</text>
+</g>
+<g><title>智能匹配</title><rect x="407" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="425" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">智</text>
+<text x="425" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">能</text>
+<text x="425" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">匹</text>
+<text x="425" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">配</text>
+</g>
+<g><title>我的投递</title><rect x="479" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="497" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">我</text>
+<text x="497" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">的</text>
+<text x="497" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">投</text>
+<text x="497" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">递</text>
+</g>
+<g><title>我的收藏</title><rect x="551" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="569" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">我</text>
+<text x="569" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">的</text>
+<text x="569" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">收</text>
+<text x="569" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">藏</text>
+</g>
+<g><title>AI模拟面试</title><rect x="623" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="641" y="435" text-anchor="middle" dominant-baseline="central" font-size="20">A</text>
+<text x="641" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">I</text>
+<text x="641" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">模</text>
+<text x="641" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">拟</text>
+<text x="641" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">面</text>
+<text x="641" y="550" text-anchor="middle" dominant-baseline="central" font-size="20">试</text>
+</g>
+<g><title>AI智能助手</title><rect x="695" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="713" y="435" text-anchor="middle" dominant-baseline="central" font-size="20">A</text>
+<text x="713" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">I</text>
+<text x="713" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">智</text>
+<text x="713" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">能</text>
+<text x="713" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">助</text>
+<text x="713" y="550" text-anchor="middle" dominant-baseline="central" font-size="20">手</text>
+</g>
+<g><title>举报反馈</title><rect x="767" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="785" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">举</text>
+<text x="785" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">报</text>
+<text x="785" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">反</text>
+<text x="785" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">馈</text>
+</g>
+<g><title>企业</title><rect x="924" y="235" width="230" height="75" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1039" y="272.5" text-anchor="middle" dominant-baseline="central" font-size="23">企业</text>
+</g>
+<g><title>数据看板</title><rect x="877" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="895" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">数</text>
+<text x="895" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">据</text>
+<text x="895" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">看</text>
+<text x="895" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">板</text>
+</g>
+<g><title>企业信息</title><rect x="949" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="967" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">企</text>
+<text x="967" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">业</text>
+<text x="967" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">信</text>
+<text x="967" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">息</text>
+</g>
+<g><title>岗位管理</title><rect x="1021" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1039" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">岗</text>
+<text x="1039" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">位</text>
+<text x="1039" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">管</text>
+<text x="1039" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">理</text>
+</g>
+<g><title>收到投递</title><rect x="1093" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1111" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">收</text>
+<text x="1111" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">到</text>
+<text x="1111" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">投</text>
+<text x="1111" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">递</text>
+</g>
+<g><title>候选人库</title><rect x="1165" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1183" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">候</text>
+<text x="1183" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">选</text>
+<text x="1183" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">人</text>
+<text x="1183" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">库</text>
+</g>
+<g><title>管理员</title><rect x="1466" y="235" width="230" height="75" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1581" y="272.5" text-anchor="middle" dominant-baseline="central" font-size="23">管理员</text>
+</g>
+<g><title>数据看板</title><rect x="1275" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1293" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">数</text>
+<text x="1293" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">据</text>
+<text x="1293" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">看</text>
+<text x="1293" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">板</text>
+</g>
+<g><title>用户管理</title><rect x="1347" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1365" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">用</text>
+<text x="1365" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">户</text>
+<text x="1365" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">管</text>
+<text x="1365" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">理</text>
+</g>
+<g><title>企业管理</title><rect x="1419" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1437" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">企</text>
+<text x="1437" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">业</text>
+<text x="1437" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">管</text>
+<text x="1437" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">理</text>
+</g>
+<g><title>岗位管理</title><rect x="1491" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1509" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">岗</text>
+<text x="1509" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">位</text>
+<text x="1509" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">管</text>
+<text x="1509" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">理</text>
+</g>
+<g><title>简历管理</title><rect x="1563" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1581" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">简</text>
+<text x="1581" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">历</text>
+<text x="1581" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">管</text>
+<text x="1581" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">理</text>
+</g>
+<g><title>投递管理</title><rect x="1635" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1653" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">投</text>
+<text x="1653" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">递</text>
+<text x="1653" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">管</text>
+<text x="1653" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">理</text>
+</g>
+<g><title>举报管理</title><rect x="1707" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1725" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">举</text>
+<text x="1725" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">报</text>
+<text x="1725" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">管</text>
+<text x="1725" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">理</text>
+</g>
+<g><title>系统日志</title><rect x="1779" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1797" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">系</text>
+<text x="1797" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">统</text>
+<text x="1797" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">日</text>
+<text x="1797" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">志</text>
+</g>
+<g><title>AI配置</title><rect x="1851" y="390" width="36" height="205" fill="white" stroke="black" stroke-width="1.3"/>
+<text x="1869" y="458" text-anchor="middle" dominant-baseline="central" font-size="20">A</text>
+<text x="1869" y="481" text-anchor="middle" dominant-baseline="central" font-size="20">I</text>
+<text x="1869" y="504" text-anchor="middle" dominant-baseline="central" font-size="20">配</text>
+<text x="1869" y="527" text-anchor="middle" dominant-baseline="central" font-size="20">置</text>
+</g>
+</g></svg>
